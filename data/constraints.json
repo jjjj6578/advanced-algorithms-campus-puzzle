@@ -1,0 +1,42 @@
+{
+    "classes": [
+        {
+            "class_id": "CS101",
+            "enrolled_students": 120,
+            "professor_id": "P1"
+        },
+        {
+            "class_id": "MATH202",
+            "enrolled_students": 45,
+            "professor_id": "P2"
+        },
+        {
+            "class_id": "HIST101",
+            "enrolled_students": 200,
+            "professor_id": "P3"
+        }
+    ],
+    "rooms": [
+        {
+            "room_id": "R-101",
+            "capacity": 150
+        },
+        {
+            "room_id": "R-105",
+            "capacity": 50
+        },
+        {
+            "room_id": "AUD-1",
+            "capacity": 300
+        }
+    ],
+    "student_groups": {
+        "Group_A": [
+            "CS101",
+            "MATH202"
+        ],
+        "Group_B": [
+            "HIST101"
+        ]
+    }
+}
